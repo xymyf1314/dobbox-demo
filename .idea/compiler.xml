@@ -6,8 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="dobbox_web" />
-        <module name="dobbox_service" />
+        <module name="dubbox_service" />
+        <module name="dubbox_web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
